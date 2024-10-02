@@ -14,7 +14,6 @@ Here's a list of my projects
 | Chess               | [repo](https://github.com/vladig98/Chess-React.js-)   | React.js        | Simple web game      | HTML, CSS                                             | Yes              | This app is an interactive chess game designed for two players. It employs React.js for state management and provides a user-friendly interface using HTML and CSS.                                                       |
 | **Snake Game**      | [repo](https://github.com/vladig98/SnakeGame)         | JS              | Simple web game      | HTML, CSS                                             | No               | A classic snake game developed using JavaScript. The game features smooth movement and basic collision detection.                                                                                                           |
 | Shark World         | [repo](https://github.com/vladig98/SharkWorld)        | HTML            | Simple static website| CSS, JS                                              | Yes              | A straightforward static website primarily crafted with HTML and CSS, serving as a project defense exam for an HTML and CSS course.                                                                                         |
-                                                                                    |
 
 
 
